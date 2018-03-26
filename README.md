@@ -1,3 +1,3 @@
 # faq
-Aviabit faq test
-This site was built using [GitHub Pages](https://pages.github.com/).
+Доступные разделы системы:
+Финансы [GitHub Pages](https://rezunenko.github.io/faq/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/).
